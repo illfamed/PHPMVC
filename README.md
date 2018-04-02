@@ -1,2 +1,2 @@
-# PHP MVC
-Custom PHP MVC / Documentation coming soon.
+# PHP MVC Framework
+Custom PHP MVC Framework / Documentation coming soon.
