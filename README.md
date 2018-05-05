@@ -1,2 +1,3 @@
 # PHP MVC Framework
-Custom PHP MVC Framework / Documentation coming soon.
+Custom PHP MVC Framework Made By Myself 
+// Documentation coming soon.
